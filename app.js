@@ -1,4 +1,2 @@
-function greet (){
-    return "Hello, Adriel!";
-}
-console.log(greet());
+let  greet  "Hello, Adriel!";
+console.log(greet);
